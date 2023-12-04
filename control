@@ -1,0 +1,9 @@
+Package: com.0xkuj.noccgrabber
+Name: NoCCGrabber
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make that CC Grabber in your lockscreen gone
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
